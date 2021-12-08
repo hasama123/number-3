@@ -8,6 +8,6 @@ Console.Writeline("Det finns totalt "+text.Length+" indexer");
 
 for(int i=0;i<=text.Length;i++)
 {
-    Console.Writeline("Index "+i+ "är" +text[i]);  
+    Console.Writeline("Index "+i+ " är " +text[i]);  
 }
 
